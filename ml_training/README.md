@@ -1,4 +1,4 @@
-# Training Ml
+# Training ML
 
 Part 2: NLP
 
