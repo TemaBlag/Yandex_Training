@@ -8,3 +8,5 @@
 - [hw2](https://github.com/TemaBlag/Yandex_Training/tree/main/ml_training_3/hw2)
 - [hw3](https://github.com/TemaBlag/Yandex_Training/tree/main/ml_training_3/hw3)
 - [hw4](https://github.com/TemaBlag/Yandex_Training/tree/main/ml_training_3/hw4)
+- [hw5](https://github.com/TemaBlag/Yandex_Training/tree/main/ml_training_3/hw5)
+- [hw6](https://github.com/TemaBlag/Yandex_Training/tree/main/ml_training_3/hw6)
